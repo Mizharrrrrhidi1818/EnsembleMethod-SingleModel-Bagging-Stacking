@@ -44,8 +44,4 @@ The dataset is sourced from the UCI Machine Learning Repository / Kaggle.
 ### Prerequisites
 Ensure you have Python 3.9+ installed.
 
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/vehicle-classification-project.git
-   cd vehicle-classification-project
+
